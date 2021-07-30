@@ -8,7 +8,7 @@ export default function PopularVideos() {
   
     return (
       
-          <div style={{height:"1008px"}}>
+          <div>
             <Body1>
                 <Container>
                     <Link to="/Videopage" style={{textDecoration: 'none'}}>
