@@ -7,7 +7,7 @@ import {Container,Box,Header,InnerBox,Imgs,Maincontent,Text,Box1,InnerBox1,Image
 export default function PopularVideos() {
   
     return (
-      <div style={{height:"auto"}}>
+      
           <div style={{height:"1008px"}}>
             <Body1>
                 <Container>
@@ -57,6 +57,6 @@ export default function PopularVideos() {
               </Container>
             </Body1>
           </div> 
-        </div>
+        
     )
 }
